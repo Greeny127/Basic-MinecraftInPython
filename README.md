@@ -1,2 +1,2 @@
 # Basic-MinecraftInPython
-Minecraft in python (Or what's left of it!)
+basic minecraft in python and ursina, uses basic chunk rendering system, will implement a better chunk loading system with messhes to get better performance
